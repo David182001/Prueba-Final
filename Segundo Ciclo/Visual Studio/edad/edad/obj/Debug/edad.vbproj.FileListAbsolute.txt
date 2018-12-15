@@ -1,0 +1,11 @@
+C:\Users\Estudiante\Desktop\Mayor\edad\edad\bin\Debug\edad.exe.config
+C:\Users\Estudiante\Desktop\Mayor\edad\edad\bin\Debug\edad.exe
+C:\Users\Estudiante\Desktop\Mayor\edad\edad\bin\Debug\edad.pdb
+C:\Users\Estudiante\Desktop\Mayor\edad\edad\bin\Debug\edad.xml
+C:\Users\Estudiante\Desktop\Mayor\edad\edad\obj\Debug\edad.vbprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\Mayor\edad\edad\obj\Debug\edad.Form1.resources
+C:\Users\Estudiante\Desktop\Mayor\edad\edad\obj\Debug\edad.Resources.resources
+C:\Users\Estudiante\Desktop\Mayor\edad\edad\obj\Debug\edad.vbproj.GenerateResource.Cache
+C:\Users\Estudiante\Desktop\Mayor\edad\edad\obj\Debug\edad.exe
+C:\Users\Estudiante\Desktop\Mayor\edad\edad\obj\Debug\edad.xml
+C:\Users\Estudiante\Desktop\Mayor\edad\edad\obj\Debug\edad.pdb
